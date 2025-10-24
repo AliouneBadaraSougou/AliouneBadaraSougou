@@ -1,5 +1,5 @@
 # Hi, i'm Alioune Badara SOUGOU 👋
-### Aspirant développeur Fullstack | Bac + 3 en Génie Logiciel et Systeme d'information
+### Fullstack developer junior 
 <!--
 **AliouneBadaraSougou/AliouneBadaraSougou** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
